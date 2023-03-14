@@ -1,4 +1,5 @@
 import React from "react";
+let image = "https://i.imgur.com/mV8PQxj.gif"
 
 function About() {
   return (
@@ -9,3 +10,4 @@ function About() {
     </div>
   );
 }
+export default {About, image};
